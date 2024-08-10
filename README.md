@@ -3,7 +3,7 @@
 # Movie App 🎬
 
 <p align="center">
-  <img src="public/Ss.png" alt="Your Image Description" width="300">
+  <img src="public/Ss.png" alt="Your Image Description" width="500" height="200">
 </p>
 
 
