@@ -4,7 +4,7 @@
 
 Welcome to the **Movie App**, a React-based web application that allows users to search and explore their favorite movies. This project leverages the OMDB API to fetch movie data and present it in a clean, user-friendly interface.
 
-![Movie App Screenshot](screenshot.png)
+[![Watch the video]('Ss.png')](https://drive.google.com/uc?id=1E6sW9fYOBQGZFImgYo0PcbNJI7BBE3Zx)
 
 ## Features
 
