@@ -108,10 +108,6 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Open a pull request.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
 
 Nitesh Ranjankar - [LinkedIn](https://www.linkedin.com/in/nitesh-r-a15518243/)
